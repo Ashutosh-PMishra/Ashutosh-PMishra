@@ -34,7 +34,7 @@
   />
   <img
     src="https://github-readme-stats.vercel.app/api?username=Ashutosh-PMishra&show_icons=true" />
-</picture>
+</picture><br>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-PMishra&theme=black-ice)
 
