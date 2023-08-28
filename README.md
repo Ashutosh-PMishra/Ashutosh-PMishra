@@ -23,8 +23,17 @@
 <h3 align="left">Support:</h3>
 <a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a> <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Ashutosh-PMishra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Ashutosh-PMishra&show_icons=true"
+    media="(prefers-color-scheme: transparent), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ashutosh-PMishra&show_icons=true" />
+</picture>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-PMishra&theme=black-ice)
