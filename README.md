@@ -1,4 +1,5 @@
 ![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+<h1 align="center"><a href="https://github.com/Pankaj-Bind"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=808080&center=true&width=480&lines=Hi%2C+👋,+I'm+Ashutosh+Mishra" alt="Typing SVG" /></a> </h1>
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
